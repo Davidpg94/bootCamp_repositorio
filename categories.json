@@ -8,19 +8,19 @@
     "description": "Preguntas relacionadas con la geografia mundial."
   },
   {
-    "category": "entretenimiento/espectáculos",
+    "category": "entretenimiento",
     "description": "Preguntas relacionadas con entretenimiento, espectaculos, noticias de TV, películas y farándula (famosos)"
   },
   {
-    "category": "Arte y literatura",
+    "category": "Arte",
     "description": "Preguntas relacionadas con Arte y literatuta de cultura general."
   },
   {
-    "category": "naturaleza y ciencias",
+    "category": "Ciencia",
     "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos"
   },
   {
-    "category": "deportes y pasatiempos",
+    "category": "Deportes",
     "description": "Preguntas relacionadas con diferentes deportes, hobbys y pasatiempo."
   }
 ]
