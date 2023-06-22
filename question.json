@@ -1,7 +1,14 @@
 {
   "category": "Historia",
-  "question": "¿¿Cuándo acabó la II Guerra Mundial??",
+  "question": "¿Cuándo acabó la II Guerra Mundial?",
   "options": ["1915", "1945", "1938"],
   "answer": 1,
   "explanation": "9 de agosto de 1945 Estados Unidos lanza una bomba atómica en Nagasaki. 2 de septiembre de 1945 Habiendo acordado en principio la rendición incondicional el 14 de agosto de 1945, Japón se rinde formalmente y finaliza la Segunda Guerra Mundial."
+}
+{
+  "category": "Arte",
+  "question": "¿Quién pintó “la última cena”?",
+  "options": ["Leonardo DaVinci", "Leonardo Dicaprio", "Salvador Dalí"],
+  "answer": 1,
+  "explanation": "La Última Cena de Leonardo da Vinci (Cenacolo Vinciano) es una de las pinturas más famosas del mundo, la obra fue pintada entre 1494 y 1498 bajo el gobierno de Ludovico el Moro y representa la última cena entre Jesús y sus discípulos."
 }
